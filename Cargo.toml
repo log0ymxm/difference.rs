@@ -21,4 +21,4 @@ unstable = []
 getopts = "0.2"
 
 [dev-dependencies]
-term = "0.2.7"
+term = "0.4.4"
